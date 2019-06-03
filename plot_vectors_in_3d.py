@@ -1,5 +1,5 @@
 import numpy as np
-import nltk
+# import nltk
 import os, sys
 from scipy import stats
 # import helper
